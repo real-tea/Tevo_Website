@@ -25,7 +25,7 @@ function Header() {
           <div className="flex-shrink-0 mr-4">
             {/* Logo */}
             <Link to="/" className="block" aria-label="Cruip">
-              <img src="/src/tevologo.jpg" className="w-14 h-13" alt="" />
+              <img src="/src/images/tevologo.jpg" className="w-14 h-13" alt="" />
             </Link>
           </div>
 

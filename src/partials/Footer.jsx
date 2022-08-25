@@ -48,7 +48,7 @@ function Footer() {
                 {/* Logo */}
                 <Link to="/" className="inline-block" aria-label="Cruip">
                   <Link to="/" className="block" aria-label="Cruip">
-                    <img src="/src/tevologo.jpg" className="w-14 h-13" alt="" />
+                    <img src="/src/images/tevologo.jpg" className="w-14 h-13" alt="" />
                   </Link>
                 </Link>
               </div>
