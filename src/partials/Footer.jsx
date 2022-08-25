@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import logo from "../images/tevologo.jpg"
 
 function Footer() {
   return (
@@ -48,7 +49,7 @@ function Footer() {
                 {/* Logo */}
                 <Link to="/" className="inline-block" aria-label="Cruip">
                   <Link to="/" className="block" aria-label="Cruip">
-                    <img src="/src/images/tevologo.jpg" className="w-14 h-13" alt="" />
+                    <img src={logo} className="w-14 h-13" alt="" />
                   </Link>
                 </Link>
               </div>
