@@ -26,7 +26,7 @@ function Footer() {
             </li>
             <li className="ml-4">
               <a
-                href="#0"
+                href="https://github.com/yatendra2001/Tevo"
                 className="flex justify-center items-center"
                 aria-label="Github"
               >
